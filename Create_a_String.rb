@@ -13,5 +13,19 @@ p space.length
 
 puts
 
-empnty = ""
-p empnty.length;
+empty = ""
+p empty.length;
+
+puts
+
+p name.class;
+p space.class;
+p revenue.class;
+p empty.class;
+
+puts
+
+name = String.new("potatoo");
+p name;
+
+p 5.to_s;
