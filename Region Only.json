@@ -1,5 +1,5 @@
 {
-  "reset_date": 1550750400000,
+  "reset_date": 1551355200000,
   "leaderboards": [{
     "leaderboard_type": "PERSONAL",
     "earnings_source": "SELF+NETWORK",
@@ -68,26 +68,26 @@
       },
       "last_session": 1549538007108
     }, {
-      "account_id": "22548280-23b4-11e9-9c1d-7171cd0e20f3",
-      "region": "CENTRAL_SOUTH_AMERICA",
-      "country": "CL",
-      "rank": 7,
-      "rank_delta": 11,
-      "best_rank": 3,
-      "average_rank": 19,
-      "earnings": 2290.289489444601400,
-      "username": "pl.cos36",
-      "first_name": "Plcos36",
-      "last_name": "Plcos36",
-      "sex": "MALE",
-      "avatar_url": "/v3/avatar/get-avatar-with-default/pl.cos36",
-      "avatar_etag": "d30e68dcd6d585c259bb84ee921e0c6b",
-      "badge": "USER",
+      "account_id": "c0fdff10-7dc9-11e8-947a-43b92bb20565",
+      "region": "EUROPE_CIS",
+      "country": "RO",
+      "rank": 654,
+      "rank_delta": -69,
+      "best_rank": 272,
+      "average_rank": 1405,
+      "earnings": 2318.67625336022,
+      "username": "pl.alin1",
+      "first_name": "Angel angelicus titanicus diablo 3 is no",
+      "last_name": "Teste",
+      "sex": "FEMALE",
+      "avatar_url": "/v3/avatar/get-avatar-with-default/pl.alin1",
+      "avatar_etag": "539cae3258fd1396c765e87b581fa94b",
+      "badge": "LEVEL08",
       "do_good_highscore": {
-        "current_counter": 1,
-        "highscore": 1
+        "current_counter": 3,
+        "highscore": 6
       },
-      "last_session": 1550243320435
+      "last_session": 1550242984481
     }, {
       "account_id": "b33b9b30-2ac6-11e9-bd4c-659524e24bff",
       "region": "CENTRAL_SOUTH_AMERICA",
@@ -149,28 +149,28 @@
       },
       "last_session": 1549522299552
     }],
-    "you": {
-      "account_id": "22548280-23b4-11e9-9c1d-7171cd0e20f3",
-      "region": "CENTRAL_SOUTH_AMERICA",
-      "country": "CL",
-      "rank": 7,
-      "rank_delta": 11,
-      "best_rank": 3,
-      "average_rank": 19,
-      "earnings": 2290.289489444601400,
-      "username": "pl.cos36",
-      "first_name": "Plcos36",
-      "last_name": "Plcos36",
-      "sex": "MALE",
-      "avatar_url": "/v3/avatar/get-avatar-with-default/pl.cos36",
-      "avatar_etag": "d30e68dcd6d585c259bb84ee921e0c6b",
-      "badge": "USER",
+      "you": {
+      "account_id": "c0fdff10-7dc9-11e8-947a-43b92bb20565",
+      "region": "EUROPE_CIS",
+      "country": "RO",
+      "rank": 654,
+      "rank_delta": -69,
+      "best_rank": 272,
+      "average_rank": 1405,
+      "earnings": 2318.67625336022,
+      "username": "pl.alin1",
+      "first_name": "Angel angelicus titanicus diablo 3 is no",
+      "last_name": "Teste",
+      "sex": "FEMALE",
+      "avatar_url": "/v3/avatar/get-avatar-with-default/pl.alin1",
+      "avatar_etag": "539cae3258fd1396c765e87b581fa94b",
+      "badge": "LEVEL08",
       "do_good_highscore": {
-        "current_counter": 1,
-        "highscore": 1
+        "current_counter": 3,
+        "highscore": 6
       },
-      "last_session": 1550243320435
+      "last_session": 1550242984481
     },
-    "timestamp": 1550200814791
+    "timestamp": 1550200613413
   }]
 }
